@@ -1,20 +1,20 @@
 # Bem vindo ao meu perfil!
 
-Olá, eu sou Homero Garcez.
+Olá, eu sou Homero Garcez
 
-## Meus hobbies:
+## Meus hobbies
 
-- Ler;
-- Assistir séries;
-- Cozinhar; 
+- Ler
+- Assistir séries
+- Cozinhar
 
-## Atualmente estudo:
+## Atualmente estudo
 
-- Git e Gihub;
-- React;
-- Javascrpt e Typescript;
+- Git e Gihub
+- React
+- Javascrpt e Typescript
 
-# Contatos:
+# Contatos
 
 - Github @githomerogarcez
 - Email: programdorhomero@gmail.com
