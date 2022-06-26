@@ -1,20 +1,24 @@
 # Bem vindo ao meu perfil!
 
-Olá, eu sou Homero Garcez.
+Olá, eu sou Homero Garcez
 
-## Meus hobbies:
+![vue-color-avatar](https://user-images.githubusercontent.com/108196044/175817870-e4598339-b409-4c7d-9f90-d409088ee773.png)
 
-- Ler;
-- Assistir séries;
-- Cozinhar; 
+Moro em São Fidélis/RJ:🌎
 
-## Atualmente estudo:
+## Meus hobbies
 
-- Git e Gihub;
-- React;
-- Javascrpt e Typescript;
+- Ler
+- Assistir séries
+- Cozinhar 
 
-# Contatos:
+## Atualmente estudo
+
+- Git e Gihub
+- React
+- Javascrpt e Typescript
+
+# Contatos
 
 - Github @githomerogarcez
 - Email: programdorhomero@gmail.com
