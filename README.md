@@ -17,5 +17,5 @@ Olá, eu sou Homero Garcez
 # Contatos
 
 - Github @githomerogarcez
-- Email: programdorhomero@gmail.com
+- Email: programadorhomero@gmail.com
 
